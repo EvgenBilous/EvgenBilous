@@ -6,8 +6,7 @@ I've always been fascinated by computers & loved spending hours playing on them!
 
 - 🌎  I'm based in Illinois, USA
 - 🎨  See my portfolio at
-- 👥 Connect with me on
-  [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/eugenebelous/)
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/eugenebelous/)
 - 📫  You can email me at
   [belous.yevgen@gmail.com](mailto:belous.yevgen@gmail.com)
 - 🤝  I'm open to collaborating on blockchain or backend projects.
